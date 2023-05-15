@@ -1,0 +1,79 @@
+.container1{
+    background-color: aliceblue;
+    width: 400px;
+    font-size: 20px;
+    font-style: normal;
+    padding: 10px;
+}
+.container2{
+    background-color: aliceblue;
+    width: 400px;
+    font-size: 20px;
+    font-style: normal;
+    padding: 40px;
+
+    
+    
+}
+.maincontainer{
+    display:flex;
+    justify-content: center;
+    
+
+}
+
+
+button{
+    height: 50px;
+    width: 200px;
+    margin: 10px;
+}
+
+.row1{
+    display: flex;
+
+    margin: 20px;
+}
+
+.row2{
+    display: flex;
+
+    margin: 20px;
+}
+
+.row3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact-icon {
+    min-width: 67px;
+    height: 67px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: #784cfb;
+    color: white;
+    text-align: center;
+    font-size: 1.4rem;
+    margin-right: 1rem;
+  }
+  
+  .contact-icon i {
+    line-height: 67px;
+  }
+
+
+  .icontext{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    
+  }
+
+  body{
+    background-image:url('purple\ image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
